@@ -21,7 +21,7 @@ Just use the simple menu!
 ## Installation 
 ### 1. Clone the repository
 ```
-git clone https://github.com/im4geeked/user-finder.git
+git clone https://github.com/im4geeked/user-finder.py.git
 cd user-finder
 ```
 ### 2. Install dependencies
